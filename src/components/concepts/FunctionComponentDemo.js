@@ -22,8 +22,7 @@ const FunctionalComponentDemo = () => {
           <h1> React Functional Components</h1>
 
           <p>
-            Functional components are the primary tool in React tobuild a small,
-            modular piece of your page..
+            Functional components are the primary tool in React to build a small, modular piece of your page..
           </p>
           <dl>
             <dt>Can use state</dt>
@@ -49,7 +48,7 @@ const FunctionalComponentDemo = () => {
             <dt>Can use effects</dt>
             <dd>
               React components have different event moments through the
-              lifecycle of the component. You can utililize the 'useEffect'
+              lifecycle of the component. You can utilize the 'useEffect'
               react hook function to perform a specific task at one of those
               event moments. An example would be when your component is going to
               be mounted to the screen, maybe you would like to send a message
@@ -95,7 +94,7 @@ const FatArrow = function () {
           <CardTitle>Fat Arrow </CardTitle>
           <CardSubtitle>A JS Library</CardSubtitle>
           <CardText>
-            <pre>const HelloWorld = () => </pre>
+            <pre>const HelloWorld = () =&gt;</pre>
           </CardText>
           <Button>Go elsewhere</Button>
         </CardBody>

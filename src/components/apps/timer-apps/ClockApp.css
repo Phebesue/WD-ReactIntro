@@ -1,0 +1,6 @@
+.times{
+    display: flex;    
+}
+.time1, .time2{
+    margin:0 30px;
+}
